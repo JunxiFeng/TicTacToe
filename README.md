@@ -1,1 +1,2 @@
-# TicTacToe
+# TicTacToe written in R
+Smart engout to prevent you from winning...
